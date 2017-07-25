@@ -22,7 +22,7 @@ header a:hover{color:#ffd700}
 .cf:after{clear:both}
 .boton-peque{padding:.3rem 1.5rem;}
 #devices{background-image: url(http://ubuntuhandbook.org/wp-content/uploads/2016/09/Yakkety_Yak_Wallpaper_grey.jpg);padding:2rem 0 6rem;position:relative}
-.servicio{background:#FFF;width:31%;float:left;margin:-5rem 1% 0;padding:3rem 2.5%;text-align:center;position:relative;-webkit-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);-moz-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);box-shadow:0 0 57px 0 rgba(4,6,9,0.25);border-radius:.35rem}
+.servicio{background:#FFF;width:41%;margin:-5rem 1% 0;padding:3rem 2.5%;text-align:center;position:relative;-webkit-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);-moz-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);box-shadow:0 0 57px 0 rgba(4,6,9,0.25);border-radius:.35rem}
 .servicio h3{margin:0;font-size:1.5rem;color:#3F3D4E}
 .servicio p{margin:0 0 2rem;color:#3F3D4E}
 .servicio .boton{padding:.5rem 2rem;}
