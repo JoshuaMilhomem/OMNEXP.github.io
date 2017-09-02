@@ -7,7 +7,7 @@ body{font-family:Helvetica,sans-serif;-webkit-font-smoothing:antialiased;-moz-os
 nav{float:right; font-weight: 700}
 .content{padding:2rem 0 6rem;position:relative}
 header a:link, header a:visited{color:#ffffff;margin:1rem;text-decoration:none}
-header a:hover{color:#ffd700}
+header a:hover{color:#FFF}
 /*main*/
 .titulo,.subtitulo{color:#FFF;text-align:center;margin:0 auto 2rem}
 .titulo{font-size:2.5rem;text-transform: uppercase}
@@ -16,24 +16,20 @@ header a:hover{color:#ffd700}
 .boton{display:inline-block;outline:none;border-radius:5px;text-decoration:none;text-align:center;color:#fff!important;cursor:pointer;font-weight:700;}
 .boton-blanco{border: 2px solid #fff;padding:.625em 2.3em;margin-left: 3em}
 .boton-azul{border:none;padding:.75em 2.5em;background-color:#007fb2;box-shadow: 0px 3px 5px 0px #002DB2}
-/*devices*/
-.head{width:1440px;max-width:90%;margin:0 auto}
+/*Servicios*/
+.contenedor{width:1440px;max-width:90%;margin:0 auto}
 .cf:after,.cf:before{content:" ";display:table}
 .cf:after{clear:both}
 .boton-peque{padding:.3rem 1.5rem;}
-#devices{background-image: url(http://ubuntuhandbook.org/wp-content/uploads/2016/09/Yakkety_Yak_Wallpaper_grey.jpg);padding:2rem 0 6rem;position:relative}
-.servicio{background:#FFF;width:41%;margin:-5rem 1% 0;padding:3rem 2.5%;text-align:center;position:relative;-webkit-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);-moz-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);box-shadow:0 0 57px 0 rgba(4,6,9,0.25);border-radius:.35rem}
+#servicios{background:#F2F1F8;padding:2rem 0 6rem;position:relative}
+.servicio{background:#FFF;width:31%;float:left;margin:-5rem 1% 0;padding:3rem 2.5%;text-align:center;position:relative;-webkit-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);-moz-box-shadow:0 0 57px 0 rgba(4,6,9,0.25);box-shadow:0 0 57px 0 rgba(4,6,9,0.25);border-radius:.35rem}
 .servicio h3{margin:0;font-size:1.5rem;color:#3F3D4E}
 .servicio p{margin:0 0 2rem;color:#3F3D4E}
 .servicio .boton{padding:.5rem 2rem;}
 .servicio .boton:after{content:" ";position:absolute;left:50%;bottom:-50px;height:50px;border-left:2px solid #C9C7D3}
 .middle .boton:after{bottom:-105px;height:105px}
-#devices:before{content:" ";position:absolute;left:50%;bottom:45px;border-top:2px solid #C9C7D3;width:59.5%;margin-left:-30.1%}
+#servicios:before{content:" ";position:absolute;left:50%;bottom:45px;border-top:2px solid #C9C7D3;width:59.5%;margin-left:-30.1%}
 #trabajos{background:#3F3D4E;padding:5rem 0;text-align:center;position:relative;overflow:hidden;color:#FFF;font-size:2.5rem;margin:0 0 .75rem}
-#trabajos img{
-	width: 330px;
-	height:144px;
-}
 table{	width:100%;	border-collapse: collapse;}
 table .borde{border-left: 1px solid #fff;}
 /*contacto*/
@@ -65,8 +61,8 @@ nav{float:none;text-align:center}
 .subtitulo{font-weight:400;font-size:.9rem;width:96%;margin:0 auto 1rem}
 .boton-blanco{margin:1em 0 0 0;}
 .servicio{width:96%;display:block;margin:1rem auto;text-align:center;float:none}
-#devices:before{display:none}
-#devices{padding:2rem 0 1rem}
+#servicios:before{display:none}
+#servicios{padding:2rem 0 1rem}
 #trabajos{color:#FFF;font-size:1.35rem;margin:1rem auto;padding:1rem 0}
 #trabajos img{width:100%;}
 table, td, tr {display: block;}
