@@ -24,13 +24,22 @@
         <a class="nav-link" href="https://carlosarriagacm.github.io/">Home</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="#rolex">Xiaomi Redmi 4A</a>
+        <a class="nav-link" href="#rolex">Redmi 4A</a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="#hwY635">Huawei Y635</a>
       </li>
       <li class="nav-item active">
+        <a class="nav-link" href="#otus">Moto E 2015</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="https://carlosarriagacm.github.io/">Moto E 2014</a>
+      </li>
+      <li class="nav-item active">
         <a class="nav-link" href="#falcon">Moto G 2013</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="https://carlosarriagacm.github.io/">Moto G4 Play</a>
       </li>
     </ul>
   </div>
@@ -52,18 +61,18 @@
             <div class="col-md-6 col-lg-3">
                 <div class="card">
                     <div class="card-block">
-                        <h3 class="card-title">LineageOS 14.1</h3><br><br>
-                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 7.1.2</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: 2017</p> <p class="card-text">Gapps: http://opengapps.org/</p>
-                        <a href="https://www.androidfilehost.com/?w=files&flid=227746"><button type="button" class="btn btn-primary btn-block">Download</button></a>
+                        <h3 class="card-title">LineageOS 13.0</h3><br><br>
+                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 6.0.1</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: Aug 14, 2017 | 11:45PM</p> <p class="card-text">Gapps: http://opengapps.org/</p>
+                        <a href="http://adf.ly/1o39yW"><button type="button" class="btn btn-primary btn-block">Download</button></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
                 <div class="card">
                     <div class="card-block">
-                        <h3 class="card-title">AospExtended</h3><br><br>
-                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 7.1.2</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: 2017</p> <p class="card-text">Gapps: http://opengapps.org/</p>
-                        <a href="https://www.androidfilehost.com/?w=files&flid=228423"><button type="button" class="btn btn-primary btn-block">Download</button></a>
+                        <h3 class="card-title">AOKP</h3><br><br>
+                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 6.0.1</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: Jul 29, 2017 | 06:16AM</p> <p class="card-text">Gapps: http://opengapps.org/</p>
+                        <a href="http://adf.ly/1o3A3C"><button type="button" class="btn btn-primary btn-block">Download</button></a>
                     </div>
                 </div>
             </div>
@@ -71,17 +80,8 @@
                 <div class="card">
                     <div class="card-block">
                         <h3 class="card-title">Resurrection</h3><br><br>
-                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 7.1.2</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: 2017</p> <p class="card-text">Gapps: http://opengapps.org/</p>
-                        <a href="https://www.androidfilehost.com/?w=files&flid=227825"><button type="button" class="btn btn-primary btn-block">Download</button></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3">
-                <div class="card">
-                    <div class="card-block">
-                        <h3 class="card-title">Dotos</h3><br><br>
-                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 7.1.2</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: 2017</p> <p class="card-text">Gapps: http://opengapps.org/</p>
-                        <a href="https://www.androidfilehost.com/?w=files&flid=228441"><button type="button" class="btn btn-primary btn-block">Download</button></a>
+                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 6.0.1</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: Aug 16, 2017 | 03:54PM</p> <p class="card-text">Gapps: http://opengapps.org/</p>
+                        <a href="http://adf.ly/1o3A4U"><button type="button" class="btn btn-primary btn-block">Download</button></a>
                     </div>
                 </div>
             </div>
@@ -236,6 +236,19 @@
                         <h3 class="card-title">AospExtended</h3><br><br>
                         <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 8.0.0</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: Sep-28-2017, 11:31AM</p> <p class="card-text">For "PEREGRINE"</p>
                         <a href="https://www.androidfilehost.com/?w=files&flid=216327"><button type="button" class="btn btn-primary btn-block">Download</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- otus --><br><br>
+        <h2 class="text-center" id="otus"> Moto E 2015 </h2>
+        <hr>
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <div class="card-block">
+                        <h3 class="card-title">LineageOS 15.0</h3><br><br>
+                        <p class="card-text"><i class="fa fa-android" aria-hidden="true"></i> Android Version: 8.0.0</p> <p class="card-text"><i class="fa fa-clock-o" aria-hidden="true"></i> Date: Sep 24, 2017 | 11:14PM</p> <p class="card-text">For "OTUS"</p>
+                        <a href="https://www.androidfilehost.com/?w=files&flid=217987"><button type="button" class="btn btn-primary btn-block">Download</button></a>
                     </div>
                 </div>
             </div>
