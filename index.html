@@ -1,97 +1,82 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Carlos Arriaga - Developer</title>
-	<link rel="stylesheet" href="css/estilo.css">
-</head>
-<body>
-	<section aria-label="Banner" id="banner">
-		<div class="contenedor">
-			<header class="content">
-				<nav>
-					<a href="#banner">Home</a>
-					<a href="#devices">Devices</a>
-					<a href="downloads/index.html">Downloads</a>
-					<a href="#trabajos">About</a>
-                    <a href="#contacto">Contact</a>
-				</nav>
-			</header><br><br><br>
-			<div class="content">
-				<h1 class="titulo">Hi, I'am Carlos Arriaga</h1>
-				<h2 class="subtitulo">Specialized in Android Programming, HTML, Java and more.</h2>
-				<div class="botonera">
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Carlos Arriaga</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">Welcome</a></li>
+							<li><a href="#one">My works</a></li>
+						</ul>
+					</nav>
 				</div>
+			</section>
+		<!-- Wrapper -->
+			<div id="wrapper">
+	<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1 style="display:inline;">Carlos Arriaga</h1>
+							<p><strong>Welcome</strong> to my official website,<br/>
+							here you will find all my recent works.<br>
+							</p>
+							<p>
+							<strong>+ Country:</strong> Mexico City.<br>
+							<strong>+ Student:</strong> Ing. Robotic.<br>
+							<strong>+ Years:</strong> 19.
+							</p> 
+						</div>
+					</section>
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a class="image"><img src="http://hooray.es/wp-content/uploads/2015/07/Moto-g.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>LineageOS For Moto G 2013</h2>
+									<p>Unofficial builds for Moto G 2013 (falcon and peregrine).</p>
+									<ul class="actions">
+										<li><a href="G2013.html" class="button">More...</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a class="image"><img src="http://www.poderpda.com/wp-content/uploads/2015/07/Motorola-Moto-E-2015-pre-analisis-1.png" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>LineageOS For Moto E 2015 3G (otus)</h2>
+									<p>Unofficial builds for Moto E 2015 3G (otus).</p>
+									<ul class="actions">
+										<li><a href="E2015.html" class="button">More...</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
+		<!-- End Wrapper -->
 			</div>
-		</div><br><br><br><br>
-	</section><section id="devices"/>
-    <center><h1>Supported Devices</h1></center>
-    <br><br><br><br><br><br><br>
-    <section aria-label="servicios" class="cf">
-		<div class="contenedor">
-			<div class="servicio">
-				<h3>Xiaomi Redmi 4A</h3>
-			</div>
-			<div class="servicio">
-				<h3>Huawei Y635</h3>
-			</div>
-			<div class="servicio">
-				<h3>Moto G 2013</h3>
-			</div>
-		</div>
-	</section>
-<br><br><br><br>
-	<section aria-label="trabajos anteriores" id="trabajos">
-		<div class="contenedor">
-			<h2 class="titulo">About</h2>
-			<h3 class="subtitulo">If you are grateful for my work, you can donate me, or follow me on my social networks.</h3>
-			<div class="tablaresp">
-			<table>
-			<tr>
-			<td>
-         <a href="https://www.paypal.me/CarlosArriagaCM"><img class="img-responsive" width="300" height="300" src="http://www.freeiconspng.com/uploads/paypal-icon-15.png"></a><br />
-         <p>PayPal</p>
-         	</td>
-         	<td class="borde">
-         <a href="https://plus.google.com/u/1/+CarlosArriagaCM"><img class="img-responsive" width="300" height="300" src="https://image.flaticon.com/icons/svg/24/24171.svg"></a><br />
-         <p>Google+</p>
-         	</td>
-         	<td class="borde">
-         <a href="https://www.instagram.com/CarlosArriagaDV/"><img class="img-responsive" width="300" height="300" src="https://www.seeklogo.net/wp-content/uploads/2015/07/instagram-flat-icon-circle-image.png"></a><br />
-         <p>Instagram</p>
-         	</td>
-         	</tr>
-         	</table>	
-         	</div>
-         </div>
-	</section>
-	<section aria-label="contacto" id="contacto" class="content">
-			<form action="contacto/enviar.php" method="POST">
-			<fieldset>
-				<h2 class="titulo">Contact with me</h2>
-				<div class="cajaform">
-				<div class="mitad-izquierda">
-					<input type="text" name="nombre" placeholder="Your name" required>
-				</div>
-				<div class="mitad-derecha">
-					<input type="email" name="correo" placeholder="Your E-mail" required>
-    			</div>
-    			<div>
-    				<textarea class="completo">Your message</textarea>
-    			</div>
-    				<input class="boton boton-azul" type="submit" value="Send">
-    		</fieldset>
-    			</div>
-  				
-			</form>
-	</section>
-		<section aria-label="footer" id="footer">
-			<footer>
-				<div class="copyright">
-				<p>Powered by <a href="mailto:admin@trucoswebonline.com">Manuel Carmona</a></p>
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li><strong>Powered by sii-usthb.</strong></li>
+					</ul>
 				</div>
 			</footer>
-		</section>
-</body>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+	</body>
 </html>
